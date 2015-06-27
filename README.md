@@ -32,6 +32,8 @@ We need to be able to readily challenge each other in cases where we have been w
 
 *If one of us fails, we all fail.*
 
+We should be able to readily present ideas to each other before disseminating them to upper management / others. We can make sure that all of our initiatives succeed.
+
 ## Responsibility
 
 I want each of us to be technical leaders in our role. No employee should look at us and question what we are doing. I want us to keep up with our individual platforms and make sure that we can readily participate in discussions with respect to those platorms. If an employee comes to us with questions, we should be able to either attempt an answer or incite discussion with the appropriate platform channel.
