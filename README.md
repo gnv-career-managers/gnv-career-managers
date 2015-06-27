@@ -54,6 +54,6 @@ I'd like to encourage healthy competition to foster growth. My goal here is not 
 
 I also think that non-development competition and community is important too. We could all go to the lake and have a micro football tournament with GNV teams too. I'd like there to be some regular gathering of teams to engage in competition, discussion, participation -- all those nice things. I'd really like to work to foster a community at Mobiquity.
 
-Doing this requires discipline and strict scheduling. There are already a lot of Mobiquity events that people are not aware of or do not participate in due to issues with scheduling, marketing, etc. I'd really like to improve participation attendance for specific events.
+Doing this requires discipline and strict scheduling. There are already a lot of Mobiquity events that people are not aware of or do not participate in due to issues with scheduling, marketing, frequency, etc. I'd really like to improve participation attendance for specific events.
 
 I'd also like to participate in events that help the community -- hackathons, meetups, workshops, teaching, etc. It is *our responsibility* as career managers to make sure these opportunities are open to our employees.
