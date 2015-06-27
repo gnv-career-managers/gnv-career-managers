@@ -34,7 +34,7 @@ We need to be able to readily challenge each other in cases where we have been w
 
 ## Responsibility
 
-I want each of us to be technical leaders in our role. No employee should look at us and question what we are doing. I want us to keep up with our individual platforms and make sure that we can readily participate in discussions with respect to those platorms. If an employee comes to us with questions, we should be able to either attempt an answer or incite discussion with the appropriate platform.
+I want each of us to be technical leaders in our role. No employee should look at us and question what we are doing. I want us to keep up with our individual platforms and make sure that we can readily participate in discussions with respect to those platorms. If an employee comes to us with questions, we should be able to either attempt an answer or incite discussion with the appropriate platform channel.
 
 We have individual direct reports, but I also feel that we are responsible for any other Mobiquity employee to include each other. I cannot imagine a scenario where any career manager will be inadequate at handling an individual employee, but any of us should be able to readily handle this situation.
 
