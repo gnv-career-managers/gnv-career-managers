@@ -44,3 +44,10 @@ Big words and fancy ideas are great. What matters is what is tangible. We need t
 
 If there is an initiative, we need to make participation measurable. Let's not be accused of being managers who come up with ideas and don't follow through on them.
 
+## Competition ... y
+
+This is the **fun** section. I'd really like our teams to compete with each other in some way -- this is not necessarily possible cross-platform, but perhaps something like comparing amount of Stackoverflow rep earned per team would be good.
+
+I'd like to encourage healthy competition to foster growth. My goal here is not to diminish anyone, so I think we have to be careful in this regard too. I'm very open to suggestions.
+
+I also think that non-development competition and community is important too. We could all go to the lake and have a micro football tournament with GNV teams too. I'd like there to be some regular gathering of teams to engage in competition, discussion, participation -- all those nice things. I'd really like to work to foster a community at Mobiquity.
