@@ -12,7 +12,7 @@ That being said, we are all different and may have different management styles a
 
 **Where it's important**. We want to make sure that every employee is treated equally and knows their rights and opportunities as an employee. This should transcend our individual management implementations.
 
-We need to be aware of the *rules* and make sure that we can convey them to any Mobiquity employee. If someone from another team asks us about a *rule*, we should all be able to give the same answer.
+We need to be aware of the *rules* and make sure that we can convey them to any Mobiquity employee. If someone from another team asks us about a *rule*, we should **all be able to give the same answer**.
 
 If there is a discrepancy in what we believe to be a specific right of an employee, we need to address this with upper management.
 
